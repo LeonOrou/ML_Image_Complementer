@@ -6,7 +6,6 @@ Exercise 2
 
 
 import os
-
 import PIL
 from PIL import Image, ImageStat
 import numpy as np
