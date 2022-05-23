@@ -5,7 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b999f1e4-50cb-4867-8881-7da063f883c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2022_21_34_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2022_21_34__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_1/000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_2/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_3/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_9/000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest/outputs/unittest_input_9/000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/ex3_unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_0/filenames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_0/images.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_0/mean_and_std.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_1/filenames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_1/images.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/solutions/unittest_input_1/mean_and_std.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/subfolder/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_0/subfolder/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/subfolder/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/subfolder/subsubfolder/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/subfolder/subsubfolder/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_Standardize_Dataset/unittest/unittest_input_1/subfolder/subsubfolder/17.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/as1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../as1.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +82,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Leon_/OneDrive - Johannes Kepler Universität Linz/JKU/Programming in Python II&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Leon Orou/OneDrive - Johannes Kepler Universität Linz/JKU/Programming in Python II"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Leon_\OneDrive - Johannes Kepler Universität Linz\JKU\Programming in Python II\ML Project\2_Data_Cleaning\output_dir" />
       <recent name="C:\Users\Leon_\OneDrive - Johannes Kepler Universität Linz\JKU\Programming in Python II\ML Project\2_Data_Cleaning\log_dir" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex2">
+  <component name="RunManager" selected="Python.ex2_unittest">
     <configuration name="Ex2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Ex2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,12 +159,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex2_unittest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Leon Orou\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex2_unittest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Ex2" />
       <item itemvalue="Python.ex2" />
+      <item itemvalue="Python.ex2_unittest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex2_unittest" />
         <item itemvalue="Python.ex2" />
       </list>
     </recent_temporary>
@@ -139,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651088146513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented logfile and output handling, optimized filter rules and file handling">
+      <created>1651090541898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651090541899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
