@@ -1,0 +1,14 @@
+{
+  "results_path": "results",
+  "network_config": {
+    "n_hidden_layers": 9,
+    "n_input_channels": 4,
+    "n_kernels": 32,
+    "kernel_size": 5},
+  "learningrate": 1e-4,
+  "weight_decay": 0,
+  "n_updates": 50,
+  "device": "cuda:0"
+
+
+}
